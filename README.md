@@ -1,3 +1,3 @@
-#Hola Mundo, Curso de Git#
+ #Curso de Git y Git Hub #
 
-Practicando nuevamente GIT
+Practicando nuevamente GIT con el curso de Jonathan Mircha.
