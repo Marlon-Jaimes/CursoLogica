@@ -1,0 +1,117 @@
+commit 9f41628a87bb244c6b7e868bc9cc4105bc20ed1c
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Wed Jul 31 10:25:43 2024 -0500
+
+    Agrengado 3 parrafos
+
+commit 766313475453cf4fe4334a831256149ded65ce99
+Merge: 058678c e69de98
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 22:08:51 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 058678c7b04de05972bc43789814dd8efabb08ad
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 21:45:46 2024 -0500
+
+    Agregando estaciones del año con fecha e inicio
+
+commit e69de98a59f8d39b5ea704101580746fcbfd0d8c
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 21:45:46 2024 -0500
+
+    Agregando lista de estaciones del año
+
+commit e4a4905f5a0595224aac343288e663589c0fb675
+Merge: 369439a c959a06
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 15:19:37 2024 -0500
+
+    Agregando un commit de prueba
+
+commit c959a063283b41446b0613c5a00a40b4eab501d9
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 14:56:40 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 369439a50cacbffe4433eca884b2d6c9d9b8f8ba
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 14:51:26 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 55d85fca45a9700285be3f0cb92b6a0318a7a3ca
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 12:29:39 2024 -0500
+
+    Agregando contenido en el html y corrigiendo un error
+
+commit a67ce5ec1af1f591c38f6fefb42a76f2e4df4065
+Merge: 3067e85 26cb22d
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 12:19:04 2024 -0500
+
+    Merge branch 'js'
+
+commit 26cb22d9f30cb6ec7e9abcc3139e26ec5cca2e36
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 12:03:20 2024 -0500
+
+    Creando index.js
+
+commit 3067e8543a44ebea4003a6037ed9afd71c7f89aa
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 11:57:44 2024 -0500
+
+    Creando style.css
+
+commit 96e7cb8ee5db7ecd9f55b82681e5b7382250b523
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Mon Jul 29 11:50:47 2024 -0500
+
+    Creando archivo index.html
+
+commit 159870b12cb6cbfb37c3f23785cfe93cb3669cef
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Sun Jul 28 15:05:29 2024 -0500
+
+    Ignorando archivos .exe
+
+commit d06881b83a8bcc13b3c002e37fcad7801d222007
+Merge: 0193309 f04e10f
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Sun Jul 28 10:30:51 2024 -0500
+
+    Merge branch 'main' of https://github.com/Marlon-Jaimes/CursoLogica
+
+commit f04e10fd07740d7e9a1f3d9d4b7c62cdbca852e1
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Sun Jul 28 10:25:39 2024 -0500
+
+    Creando licencia del repositorio
+
+commit 01933094cae507c480b362e690580f56c4bd0bd4
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Sun Jul 28 09:54:08 2024 -0500
+
+    Agregado mas contenido al Readme para practicar git
+
+commit f32aaaadb6a48ae3af207185b162aa1f31ff5a85
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Sun Jul 28 08:48:56 2024 -0500
+
+    Agregando y modificando una información de prueba
+
+commit c000b7e25eed1e97a9a8ce3f8ec587aab4e61ef7
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Sat Jul 27 20:25:41 2024 -0500
+
+    Agregando contenido inicial en Readme
+
+commit 3d0f2933ee022422ada3b9d8d7e892ac7a009624
+Author: Marlon-Jaimes <jaimesmarlon497@gmail.com>
+Date:   Sat Jul 27 20:20:48 2024 -0500
+
+    primer commit

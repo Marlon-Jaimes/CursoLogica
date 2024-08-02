@@ -1,0 +1,27 @@
+* 9f41628 Agrengado 3 parrafos
+*   7663134 Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * e69de98 Agregando lista de estaciones del año
+* | 058678c Agregando estaciones del año con fecha e inicio
+|/  
+*   e4a4905 Agregando un commit de prueba
+|\  
+| * c959a06 Agregando index.js al index.html
+* | 369439a Agregando style.css al index.html
+|/  
+* 55d85fc Agregando contenido en el html y corrigiendo un error
+*   a67ce5e Merge branch 'js'
+|\  
+| * 26cb22d Creando index.js
+* | 3067e85 Creando style.css
+* | 96e7cb8 Creando archivo index.html
+|/  
+* 159870b Ignorando archivos .exe
+*   d06881b Merge branch 'main' of https://github.com/Marlon-Jaimes/CursoLogica
+|\  
+| * f04e10f Creando licencia del repositorio
+* | 0193309 Agregado mas contenido al Readme para practicar git
+|/  
+* f32aaaa Agregando y modificando una información de prueba
+* c000b7e Agregando contenido inicial en Readme
+* 3d0f293 primer commit
